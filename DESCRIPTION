@@ -1,0 +1,15 @@
+Package: dummy
+Title: Say Hello
+Version: 1.0.0.
+Authors@R: 
+    person("Elio", "Campitelli", , "elio.campitelli@cima.fcen.uba.ar", role = c("cre", "aut"),
+           comment = c(ORCID = "0000-0002-7742-9230"))
+Description: Greets the user
+License: GPL-3
+Encoding: UTF-8
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
