@@ -1,6 +1,6 @@
 Package: dummy
 Title: Say Hello
-Version: 1.0.0.
+Version: 1.0.0
 Authors@R: 
     person("Elio", "Campitelli", , "elio.campitelli@cima.fcen.uba.ar", role = c("cre", "aut"),
            comment = c(ORCID = "0000-0002-7742-9230"))
