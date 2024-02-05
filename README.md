@@ -1,1 +1,1 @@
-# r18n-dummy
+# ri18n-dummy
